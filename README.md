@@ -1,3 +1,2 @@
 # hi-world
-descartes
-# Bu Bir Denemedir.
+descartes # Bu Bir Denemedir.
